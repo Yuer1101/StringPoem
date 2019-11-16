@@ -75,4 +75,4 @@ for(int i=0;i<builder.length();i++){
 ### **五、运行结果截图** 
 https://github.com/Yuer1101/StringPoem/捕获.png
 ### **六、实验心得** 
-通过本次实验使我更加熟悉了String字符串的使用，通过实际操作了解了String、StringBuffer、StringBuilder的区别，学会使用StringBuilder的append方法向字符串后面添加内容、subString的截取方法和try..catch抛出异常、函数之间的调用，都让我对程序的设计有了新的认识并学会了简单应用，完成的实现了古诗标点输出及字符出现次数统计，通过github编写实验报告，学习到了markdown排版方式，并应用到了标题、多行文本、文字高亮、图片链接的方法，收获很大，希望以后也可以不断的学习新的方法不断的补充和丰富自己。
+通过本次实验使我更加熟悉了String字符串的使用，通过实际操作了解了String、StringBuffer、StringBuilder的区别，学会使用StringBuilder的append方法向字符串后面添加内容、subString的截取方法和try..catch抛出异常、函数之间的调用，都让我对程序的设计有了新的认识并学会了简单应用，完成的实现了古诗标点输出及字符出现次数统计，通过github编写实验报告，学习到了markdown排版方式，并应用到了标题、文字加粗、多行文本、文字高亮、图片链接等的方法，收获很大，也提升了兴趣，希望以后也可以不断的学习新的方法不断的补充和丰富自己。
